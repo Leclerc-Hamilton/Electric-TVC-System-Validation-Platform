@@ -1,2 +1,9 @@
 # Electric-TVC-System-Validation-Platform
-Our group, consisting of three seniors, are making a algorithm validation platform for the thrust vector control system, using electric motor, battery, servos and ESP-32 S3. A real rocket will be made after finishing this electric validation platform. Feel free to join us via: dlmu108014301@dlmu.edu.cn ; wty108014301@gmail.com
+
+Our group, consisting of three seniors, are making a algorithm validation platform for the thrust vector control system, using electric motor, battery, servos and ESP-32 S3. A real rocket will be made after finishing this electric validation platform. Feel free to join us via: dlmu108014301@dlmu.edu.cn ; wty108014301@gmail.com ; wty108014301@gmail.com
+
+# Project Progress
+
+I am modeling the entire system with SolidWorks, while other two friends are building up the controlling system with MATLAB & ESP-32 S3, and 3D printing the structure to confirm the reasonability of each part of the platform with QIDI & Bambom 3D Printers.
+
+We will update this repository before the end of this project. The expected data when are able to finish this project is 12/2026. The latest data will be 5/2027.
