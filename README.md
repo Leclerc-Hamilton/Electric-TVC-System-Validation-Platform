@@ -1,6 +1,6 @@
 # Electric-TVC-System-Validation-Platform
 
-<img width="1254" height="1254" alt="Celenic Prime" src="https://github.com/user-attachments/assets/ce5d3406-dd2f-41f1-9d03-6567f19bb69a" / width="60%">
+<img width="1254" height="1254" alt="Celenic Prime" src="https://github.com/user-attachments/assets/ce5d3406-dd2f-41f1-9d03-6567f19bb69a" width="60%">
 
 Our group, consisting of three seniors, are making a algorithm validation platform for the thrust vector control system, using electric motor, battery, servos and ESP-32 S3. A real rocket will be made after finishing this electric validation platform. Feel free to communicate with us and join us via: dlmu108014301@dlmu.edu.cn ; wty108014301@gmail.com
 
